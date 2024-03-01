@@ -1,4 +1,4 @@
-package CrossKim.ChattingApp;
+package  crossKim.chattingApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
